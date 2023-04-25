@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q3nhvpotf378yw39?svg=true)](https://ci.appveyor.com/project/Shuralol/unit-test-1)
